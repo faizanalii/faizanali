@@ -71,7 +71,7 @@ class App extends Component{
         </MDBRow>
         </MDBContainer>          
         </ParallaxLayer>
-        <ParallaxLayer offset={2} factor={4} speed={1}>
+        <ParallaxLayer offset={2} factor={6} speed={1}>
            <MDBRow>
             <MDBCol md="6">
               <h3 style={{color:"white"}}>Youtube Video Downloader using PyQt5 & Python. <SocialIcon url="https://github.com/faizanalii/YouTube-Video-Downloader"/></h3>
