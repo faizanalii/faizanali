@@ -63,7 +63,7 @@ class ContactForm extends Component{
 			    </MDBCol>
 			    <MDBCol md="2" />
 			  </MDBRow>
-			  <br/><br/><br/>
+			  <br/>
 			  <MDBRow>
 			  	<MDBCol md="12" className="d-flex justify-content-center">
 			  		{this.sociallinks()}
