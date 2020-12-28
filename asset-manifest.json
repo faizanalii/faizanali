@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/faizanali/static/css/main.68ee9d10.chunk.css",
-    "main.js": "/faizanali/static/js/main.4004deba.chunk.js",
-    "main.js.map": "/faizanali/static/js/main.4004deba.chunk.js.map",
+    "main.js": "/faizanali/static/js/main.65cedf54.chunk.js",
+    "main.js.map": "/faizanali/static/js/main.65cedf54.chunk.js.map",
     "runtime-main.js": "/faizanali/static/js/runtime-main.3d6cfe3b.js",
     "runtime-main.js.map": "/faizanali/static/js/runtime-main.3d6cfe3b.js.map",
     "static/css/2.0c5529c4.chunk.css": "/faizanali/static/css/2.0c5529c4.chunk.css",
@@ -33,6 +33,6 @@
     "static/css/2.0c5529c4.chunk.css",
     "static/js/2.8bc8d9a5.chunk.js",
     "static/css/main.68ee9d10.chunk.css",
-    "static/js/main.4004deba.chunk.js"
+    "static/js/main.65cedf54.chunk.js"
   ]
 }
