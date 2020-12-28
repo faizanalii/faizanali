@@ -1,0 +1,72 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.test{
+  background-image: url('./Images/galaxy.jpg');
+  background-size: cover;
+  height: 100%;
+}
+.mainpage h1 
+{
+  font-size: xx-large;
+  color:gray;
+  letter-spacing: 1vw;
+  font-family: 'Orbitron', sans-serif;
+}
+.mainpage{
+  text-align: center;
+}
+h3{
+  font-family: 'Orbitron',sans-serif;  
+}
+.arrow {
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 10px;
+}
+.up{
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+}
+.arrowup
+{
+  margin-left: 90%;
+  border:0px;
+  background-color: transparent;
+}
