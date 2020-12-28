@@ -29,7 +29,7 @@ class App extends Component{
   {
     return(
       <>
-      <Parallax scrolling horizontal={false} ref={ref => (this.parallax = ref)} pages={5}>
+      <Parallax scrolling horizontal={false} ref={ref => (this.parallax = ref)} pages={6}>
         <StarsField/>
       <BrowserRouter>
     <MDBNav className="justify-content-center nav-fill" fixed="top">
