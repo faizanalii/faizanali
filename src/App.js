@@ -40,7 +40,7 @@ class App extends Component{
         <MDBNavLink onClick={()=>this.parallax.scrollTo(2)} style={{letterSpacing:5}} className="white-text" to="#">WORK</MDBNavLink>
       </MDBNavItem>
       <MDBNavItem>
-        <MDBNavLink onClick={()=>this.parallax.scrollTo(4.2)} style={{letterSpacing:5}} className="white-text" to="#" >CONTACT</MDBNavLink>
+        <MDBNavLink onClick={()=>this.parallax.scrollTo(5)} style={{letterSpacing:5}} className="white-text" to="#" >CONTACT</MDBNavLink>
       </MDBNavItem>
     </MDBNav>
     </BrowserRouter>
@@ -145,12 +145,11 @@ class App extends Component{
                 </MDBCol>
 
            </MDBRow>
-           <br/><br/><br/><br/>
-           <ParallaxLayer offset={3.2} factor={1} speed={1}>
+        </ParallaxLayer>
+           <ParallaxLayer offset={5} factor={1} speed={1}>
           <ContactForm/>
           <button className='arrowup' type="button" onClick={()=>this.parallax.scrollTo(0)}><i className="arrow up"></i></button>         
           </ParallaxLayer>
-        </ParallaxLayer>
     </Parallax>
     </>
       );
