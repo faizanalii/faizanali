@@ -1,17 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
 import React,{Component} from 'react'
 import { BrowserRouter } from 'react-router-dom';
-import { MDBNav,MDBNavbar, MDBNavItem, MDBNavLink, MDBContainer,MDBCarouselCaption, MDBRow,MDBCol,MDBCarousel, MDBCarouselInner, MDBCarouselItem, MDBView} from "mdbreact"; 
-import {Nav,Navbar} from 'react-bootstrap';
-import stars from "./Images/stars.jpg";
+import { MDBNav, MDBNavItem, MDBNavLink, MDBContainer,MDBCarouselCaption, MDBRow,MDBCol,MDBCarousel, MDBCarouselInner, MDBCarouselItem, MDBView} from "mdbreact"; 
 import {Parallax, ParallaxLayer} from 'react-spring/renderprops-addons';
 import {SocialIcon} from 'react-social-icons'; 
-import galaxy from './Images/galaxy.jpg';
 import StarsField from './stars';
 import faizan from './Images/faizan.png';
 import youtubedownloader from './Images/youtubedownloader.png';
-import scraping from './Images/scraping.png';
 import poster from './Images/poster.png';
 import nistapi from './Images/nistapi.jpg';
 import ReactPlayer from 'react-player';
@@ -21,9 +16,7 @@ import face_rec from './Images/face_rec.jpg';
 import hacker from './Images/hacker.svg';
 import ContactForm from './contact_form';
 class App extends Component{
-  constructor(props){
-    super(props);
-  }
+  
 
   render()
   {
@@ -66,7 +59,7 @@ class App extends Component{
         <MDBCol md="2">
         </MDBCol>
         <MDBCol md="4">
-          <img src={faizan}  style={{ width: '100%',opacity:'1', height:'100%' }}/>
+          <img src={faizan} alt="Faizan Ali"  style={{ width: '100%',opacity:'1', height:'100%' }}/>
         </MDBCol>
         </MDBRow>
         </MDBContainer>          
@@ -92,12 +85,12 @@ class App extends Component{
                 <MDBCol md="6">
                   <h3 style={{color:"white"}}>Facial Recognition using Python <SocialIcon url="https://github.com/faizanalii/Face-Recognition-"/> </h3>
                   <br/>
-                  <img src={face_rec} style={{width:"100%",border:"3px solid white" ,borderRadius:"25px"}} alt="Youtube Video Downloader SS"/>
+                  <img src={face_rec} style={{width:"100%",border:"3px solid white" ,borderRadius:"25px"}} alt="Facial Recognition Code SS"/>
                 </MDBCol>
                 <MDBCol md="6">
                   <h3 style={{color:"white"}}>Download All Channel Videos(YT) <SocialIcon url="https://github.com/faizanalii/AllChannelVideos"/> </h3>
                   <br/>
-                  <img src={channelvideos} style={{width:"100%",border:"3px solid white" ,borderRadius:"25px"}} alt="Youtube Video Downloader SS"/>
+                  <img src={channelvideos} style={{width:"100%",border:"3px solid white" ,borderRadius:"25px"}} alt="Download all Channel videos code SS"/>
                 </MDBCol>
                 </MDBRow>
                 <br/>
@@ -113,7 +106,7 @@ class App extends Component{
              <MDBCol md="4">
                <h3 style={{color:"white"}}>Poster Design</h3>
               <br/>
-              <img src={poster} style={{width:"100%", height:"80%" ,border:"3px solid white" ,borderRadius:"25px"}} alt="Youtube Video Downloader SS"/>
+              <img src={poster} style={{width:"100%", height:"80%" ,border:"3px solid white" ,borderRadius:"25px"}} alt="Poster Design of an event"/>
             </MDBCol>
            </MDBRow>
            <br/>
@@ -129,12 +122,12 @@ class App extends Component{
                     <MDBCarouselInner>
                         <MDBCarouselItem itemId="1">
                           <MDBView>
-                             <img  src={hacker} style={{width:"100%", height:"60vh"}} alt="Youtube Video Downloader SS"/>
+                             <img  src={hacker} style={{width:"100%", height:"60vh"}} alt="Hacker SVG"/>
                           </MDBView>
                         </MDBCarouselItem>
                         <MDBCarouselItem itemId="2">
                           <MDBView>
-                            <img style={{width:"100%",height:"60vh"}} src={web_info} alt="Youtube Video Downloader SS"/>
+                            <img style={{width:"100%",height:"60vh"}} src={web_info} alt="Website Penetration Testing Results SS"/>
                           </MDBView>
                           <MDBCarouselCaption>
                             <h3 className="h3-responsive">Screen Shot of Results</h3>
