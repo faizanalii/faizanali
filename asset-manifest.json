@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/faizanali/static/css/main.7745eb69.chunk.css",
-    "main.js": "/faizanali/static/js/main.005a90f4.chunk.js",
-    "main.js.map": "/faizanali/static/js/main.005a90f4.chunk.js.map",
+    "main.css": "/faizanali/static/css/main.60abe670.chunk.css",
+    "main.js": "/faizanali/static/js/main.007637d0.chunk.js",
+    "main.js.map": "/faizanali/static/js/main.007637d0.chunk.js.map",
     "runtime-main.js": "/faizanali/static/js/runtime-main.eaa83252.js",
     "runtime-main.js.map": "/faizanali/static/js/runtime-main.eaa83252.js.map",
     "static/css/2.0c5529c4.chunk.css": "/faizanali/static/css/2.0c5529c4.chunk.css",
@@ -12,23 +12,23 @@
     "static/js/3.82279bc0.chunk.js.map": "/faizanali/static/js/3.82279bc0.chunk.js.map",
     "index.html": "/faizanali/index.html",
     "static/css/2.0c5529c4.chunk.css.map": "/faizanali/static/css/2.0c5529c4.chunk.css.map",
-    "static/css/main.7745eb69.chunk.css.map": "/faizanali/static/css/main.7745eb69.chunk.css.map",
+    "static/css/main.60abe670.chunk.css.map": "/faizanali/static/css/main.60abe670.chunk.css.map",
     "static/js/2.30e22925.chunk.js.LICENSE.txt": "/faizanali/static/js/2.30e22925.chunk.js.LICENSE.txt",
     "static/media/mdb.css": "/faizanali/static/media/arrow_right.0897f985.svg",
-    "static/media/channelvideos.640ad153.jpg": "/faizanali/static/media/channelvideos.640ad153.jpg",
-    "static/media/face_rec.553b4b49.jpg": "/faizanali/static/media/face_rec.553b4b49.jpg",
-    "static/media/faizan.c21c98d1.jpg": "/faizanali/static/media/faizan.c21c98d1.jpg",
+    "static/media/channelvideos.83a45e40.jpg": "/faizanali/static/media/channelvideos.83a45e40.jpg",
+    "static/media/face_rec.f54a9aa8.jpg": "/faizanali/static/media/face_rec.f54a9aa8.jpg",
+    "static/media/faizan.fd67bdfa.jpg": "/faizanali/static/media/faizan.fd67bdfa.jpg",
     "static/media/hacker.6877bb2e.svg": "/faizanali/static/media/hacker.6877bb2e.svg",
-    "static/media/nistapi.e0afaeeb.jpg": "/faizanali/static/media/nistapi.e0afaeeb.jpg",
-    "static/media/poster.185282aa.jpg": "/faizanali/static/media/poster.185282aa.jpg",
-    "static/media/web_info.4c75f658.jpg": "/faizanali/static/media/web_info.4c75f658.jpg",
-    "static/media/youtubedownloader.bee72e49.png": "/faizanali/static/media/youtubedownloader.bee72e49.png"
+    "static/media/nistapi.08e29c44.jpg": "/faizanali/static/media/nistapi.08e29c44.jpg",
+    "static/media/poster.7c96693e.jpg": "/faizanali/static/media/poster.7c96693e.jpg",
+    "static/media/web_info.b55611a6.jpg": "/faizanali/static/media/web_info.b55611a6.jpg",
+    "static/media/youtubedownloader.5e6ccf43.png": "/faizanali/static/media/youtubedownloader.5e6ccf43.png"
   },
   "entrypoints": [
     "static/js/runtime-main.eaa83252.js",
     "static/css/2.0c5529c4.chunk.css",
     "static/js/2.30e22925.chunk.js",
-    "static/css/main.7745eb69.chunk.css",
-    "static/js/main.005a90f4.chunk.js"
+    "static/css/main.60abe670.chunk.css",
+    "static/js/main.007637d0.chunk.js"
   ]
 }
