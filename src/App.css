@@ -37,7 +37,6 @@
   }
 }
 .test{
-  background-image: url('./Images/galaxy.jpg');
   background-size: cover;
   height: 100%;
 }

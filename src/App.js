@@ -5,9 +5,9 @@ import { MDBNav, MDBNavItem, MDBNavLink, MDBContainer,MDBCarouselCaption, MDBRow
 import {Parallax, ParallaxLayer} from 'react-spring/renderprops-addons';
 import {SocialIcon} from 'react-social-icons'; 
 import StarsField from './stars';
-import faizan from './Images/faizan.png';
+import faizan from './Images/faizan.jpg';
 import youtubedownloader from './Images/youtubedownloader.png';
-import poster from './Images/poster.png';
+import poster from './Images/poster.jpg';
 import nistapi from './Images/nistapi.jpg';
 import ReactPlayer from 'react-player';
 import web_info from './Images/web_info.jpg';
